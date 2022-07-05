@@ -1,0 +1,77 @@
+body{
+    font-family: 'Mingzat', sans-serif;
+}
+.button{
+    text-decoration: none;
+    font-weight:700;
+    color: white;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding:10px 20px;
+    border-radius: 5px;
+
+}
+.half-weith{
+    float: left;
+    margin: 20px;
+    margin-top: 50px;
+    padding-left: 6%;
+    height: 500px;
+    width: 40%;
+}
+.half-weith img{
+    width: 100%;
+    
+}
+.orange-color{
+    color: orange;
+}
+#green{
+    color: green;
+}
+#sec-img img{
+    width: 50%;
+    height: 400px;
+
+}
+#fist-img img{
+    height: 100%;
+}
+#about{
+    color: #4e5386;
+}
+.three-div{
+    width: 25%;
+    height: 450px;
+    float: left;
+    padding: 20px;
+    margin-left: 80px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px gray;
+  
+}
+.three-div img{
+    width: 100%;
+}
+.third-section{
+    margin-left: 50px;
+    position: absolute;
+    width: 1800px;
+    height: 800px;
+    top: 1201px;
+    background: #F8F9FC;
+        
+}
+#project{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.sec-1{
+    width: 100%;
+    border: 1px solid rebeccapurple;
+    
+
+}
+.sec-2{
+    
+    width: 100%;
+}
